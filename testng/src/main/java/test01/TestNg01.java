@@ -2,7 +2,7 @@ package test01;
 
 import org.testng.annotations.*;
 
-public class testng01 {
+public class TestNg01 {
     //最基本的注解，用来把方法标记未测试的一部分
     @Test
     public void test001() {
